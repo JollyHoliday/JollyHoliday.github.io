@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xA3ecFD445359C6a1732537C8edF129543De61386",
+  "SCAN_LINK": "https://polygonscan.com/token/0xA3ecFD445359C6a1732537C8edF129543De61386",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Bad Manners",
+  "SYMBOL": "BMNFT",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 100000000000000000000,
+  "DISPLAY_COST": 100,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/bad-manners",
+  "SHOW_BACKGROUND": true
+}
